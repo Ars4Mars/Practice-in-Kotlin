@@ -1,6 +1,11 @@
 import java.util.*
+import kotlinx.coroutines.*
 
 fun main(args: Array<String>){
+    GlobalScope.launch { // launch a new coroutine in background and continue
+        delay(2000L) // non-blocking delay for 1 second (default time unit is ms)
+        println("World!") // print after delay
+    }
        println("Welcome to Kotlin calculator! \n \bchoose two numbers")
         val input = Scanner(System.`in`)
         val a = input.nextInt()
