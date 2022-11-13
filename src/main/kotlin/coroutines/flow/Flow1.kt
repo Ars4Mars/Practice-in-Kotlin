@@ -2,7 +2,6 @@ package coroutines.flow
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
-import java.util.concurrent.Future
 
 
 fun basicFlow(): Flow<Int> = flow {
@@ -13,24 +12,44 @@ fun basicFlow(): Flow<Int> = flow {
     }
 }.flowOn(Dispatchers.IO)
 
+var a_state  = MutableStateFlow(1)
+var b_shared = MutableSharedFlow<Int>(1)
+
 fun main() {
 
-    runDefault()
+
     GlobalScope.launch {
+        a_state.collect {
+            println("a>> ${it}")
+        }
+//        b_shared.collectLatest {
+//            println("b>> latest ${it}")
+//        }
+        b_shared.collect {
+            println("b>> ${it}")
+        }
+
         delay(4000)
 
-        job.cancel()
+        //job.cancel()
         //coroutineContext.ensureActive()
     }
+    runDefault()
+
 }
 
 fun latestNews() = flow {
 
     while (true) {
+        a_state.value = (0..10).random()
+
+        b_shared.emit((0..10).random())
+        b_shared.tryEmit((0..10).random())
+        b_shared
         val latestNews = listOf<Int>(1,2,3,4,5)
         emit(latestNews) // Emits the result of the request to the flow
         delay(1000) // Suspends the coroutine for some time
-        return@flow
+        //return@flow
     }
 
 

@@ -5,31 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc6f1d78-8b94-4b17-99a3-39cb51000d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algorithms/SelectionSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algorithms/SelectionSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algorithms/Sorting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/Flow1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/observer/Test1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/hex/Converter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/multithreading/T1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/ModularMath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/testfield/Array2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/testfield/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/testfield/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/testfield/С1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algorithms/Test5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algorithms/Test6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrays/Replacing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/ColdFlow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/Flow2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/Flow3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/Flow4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/KotlinMastering.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/KotlinMastering.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$calc1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$calc1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$calc2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$calc2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$crt1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$crt1$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$crt1$1$time$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$crt1$1$time$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$crt1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt$crt1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/lessons/coroutines/Task1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$basicFlow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$basicFlow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$job$1$invokeSuspend$$inlined$collect$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$job$1$invokeSuspend$$inlined$collect$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$job$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$job$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$latestNews$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$latestNews$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$runDefault$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt$runDefault$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/coroutines/flow/Flow1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/hex/ConverterKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/hex/ConverterKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
@@ -55,12 +58,6 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
@@ -99,6 +96,8 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/Flow1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/flow/Flow1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hex/Converter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hex/Converter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +114,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -141,68 +140,64 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/differents" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Test1Kt">
-    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testfield.Array3" />
-      <module name="KotlinMastering.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testfield.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConverterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hex.ConverterKt" />
+  <component name="RunManager" selected="Kotlin.Flow4Kt">
+    <configuration name="Flow3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coroutines.flow.Flow3Kt" />
       <module name="KotlinMastering.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flow1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coroutines.flow.Flow1Kt" />
+    <configuration name="Flow4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coroutines.flow.Flow4Kt" />
       <module name="KotlinMastering.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.T1Kt" />
+    <configuration name="ReplacingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ReplacingKt" />
       <module name="KotlinMastering.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coroutines.observer.Test1Kt" />
+    <configuration name="Test5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.Test5Kt" />
+      <module name="KotlinMastering.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.Test6Kt" />
       <module name="KotlinMastering.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Array3" />
-      <item itemvalue="Kotlin.T1Kt" />
-      <item itemvalue="Kotlin.ConverterKt" />
-      <item itemvalue="Kotlin.Flow1Kt" />
-      <item itemvalue="Kotlin.Test1Kt" />
+      <item itemvalue="Kotlin.Flow3Kt" />
+      <item itemvalue="Kotlin.ReplacingKt" />
+      <item itemvalue="Kotlin.Test5Kt" />
+      <item itemvalue="Kotlin.Test6Kt" />
+      <item itemvalue="Kotlin.Flow4Kt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Test1Kt" />
-        <item itemvalue="Kotlin.Flow1Kt" />
-        <item itemvalue="Kotlin.ConverterKt" />
-        <item itemvalue="Application.Array3" />
-        <item itemvalue="Kotlin.T1Kt" />
+        <item itemvalue="Kotlin.Flow4Kt" />
+        <item itemvalue="Kotlin.Test5Kt" />
+        <item itemvalue="Kotlin.Test6Kt" />
+        <item itemvalue="Kotlin.ReplacingKt" />
+        <item itemvalue="Kotlin.Flow3Kt" />
       </list>
     </recent_temporary>
   </component>
