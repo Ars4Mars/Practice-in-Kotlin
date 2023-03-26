@@ -1,6 +1,5 @@
 package lessons.coroutines
 
-import jdk.nashorn.internal.objects.Global
 import kotlinx.coroutines.*
 import kotlin.system.measureTimeMillis
 

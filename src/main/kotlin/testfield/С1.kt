@@ -1,6 +1,7 @@
 package testfield
 
-import com.sun.org.apache.xalan.internal.lib.ExsltMath.abs
+import kotlin.math.abs
+
 
 fun main() {
     var latA  =56.35257982648909//, 55.79914480447769
