@@ -2,6 +2,7 @@ package coroutines.flow
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
+import kotlin.concurrent.thread
 
 
 fun basicFlow(): Flow<Int> = flow {
@@ -16,12 +17,16 @@ var a_state  = MutableStateFlow(1)
 var b_shared = MutableSharedFlow<Int>(1)
 
 fun main() {
-
-
     GlobalScope.launch {
         a_state.collect {
             println("a>> ${it}")
         }
+        val a = thread {
+
+        }
+        GlobalScope.async {  }
+        GlobalScope.launch {  }
+        a.join()
 //        b_shared.collectLatest {
 //            println("b>> latest ${it}")
 //        }
