@@ -9,7 +9,7 @@ open class A {
     fun nepizdec() {}
 }
 
-class B : A() {
+open class B : A() {
     override var cv: Int = 1
 
     init {

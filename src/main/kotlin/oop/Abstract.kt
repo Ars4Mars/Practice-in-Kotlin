@@ -1,5 +1,8 @@
 package oop
 
+import syntax_kotlin.SimpleInterface
+import syntax_kotlin.SimpleInterface2
+
 abstract class Abstract: SimpleInterface, SimpleInterface2, A(){ // cant extend 1+ classes, A2() {
 }
 

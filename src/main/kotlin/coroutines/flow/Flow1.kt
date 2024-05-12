@@ -15,18 +15,42 @@ fun basicFlow(): Flow<Int> = flow {
 
 var a_state  = MutableStateFlow(1)
 var b_shared = MutableSharedFlow<Int>(1)
+var a = MutableSharedFlow<Int>(2)
 
-fun main() {
+
+
+fun main() = runBlocking {
     GlobalScope.launch {
+        while (true) {
+            a.collect {
+                println("<>>>> ${it}")
+            }
+            delay(100)
+        }
+    }
+    GlobalScope.launch {
+
+        println("8888")
+
+        a.emit(1)
+
+        //delay(100)
+
+
+        a.emit (2)
+
+        println("<>>>> $}")
+
+
         a_state.collect {
             println("a>> ${it}")
         }
-        val a = thread {
+        val abb = thread {
 
         }
-        GlobalScope.async {  }
+        val deffered = GlobalScope.async { 1 }
         GlobalScope.launch {  }
-        a.join()
+        abb.join()
 //        b_shared.collectLatest {
 //            println("b>> latest ${it}")
 //        }
